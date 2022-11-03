@@ -1,6 +1,6 @@
 # Sberbank's FPS communication interface for self-service desks
 
-## This library implements four methods for self-service desks that accepts payments by FPS (Fast-Payment System)
+## This library implements three methods for self-service desks that accepts payments by FPS (Fast-Payment System)
 
 
 * `CreateOrderAndPullStatus(orderSum, orderNumber, cancellationTokenSource)` - creates an order in FPS and starts a thread pulling 
