@@ -26,3 +26,6 @@ Every event has `IsError` flag and `ErrorMessage` field.
 * `RevocationEvent` - if success, it gives a new status for the order. It should be `Revoked`.
 
 * `RefundingEvent` - if success, it means that the order sum will be returned to the client's account.
+
+
+Original API reference locates here: [https://api.developer.sber.ru/product/PlatiQR/doc/v1/8024874181](https://api.developer.sber.ru/product/PlatiQR/doc/v1/8024874181)
